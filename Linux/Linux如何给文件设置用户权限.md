@@ -2,7 +2,7 @@
 
 ### 1. ls -l     输出信息
 
-![image-20211210155054930](D:\typora_files\image-20211210155054930.png)
+![img](images/1652494137(1).png)
 
 
 
